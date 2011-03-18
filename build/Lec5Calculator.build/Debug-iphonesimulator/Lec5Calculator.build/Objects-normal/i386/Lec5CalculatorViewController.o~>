@@ -1,0 +1,4 @@
+/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m:13: warning: 'kOperationMinus' defined but not used
+/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m:14: warning: 'kOperationMultiply' defined but not used
+/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m:15: warning: 'kOperationDivide' defined but not used
+/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m:16: warning: 'kOperationEqual' defined but not used

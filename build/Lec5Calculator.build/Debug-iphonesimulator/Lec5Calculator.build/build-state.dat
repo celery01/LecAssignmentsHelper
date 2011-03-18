@@ -1,0 +1,260 @@
+TLec5Calculator
+v7
+r0
+t320989461.765397
+cCheck dependencies
+cProcessInfoPlistFile /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Info.plist Lec5Calculator-Info.plist
+cCompileXIB /Users/DanielYiLin/Desktop/Lec5Calculator/MainWindow.xib
+cCompileXIB /Users/DanielYiLin/Desktop/Lec5Calculator/Lec5CalculatorViewController.xib
+cProcessPCH /var/folders/tC/tCqR9eLBGK82HPzFfLaKjE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lec5Calculator_Prefix-bmznakajxglsjobygyrratipdill/Lec5Calculator_Prefix.pch.gch Lec5Calculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/main.o /Users/DanielYiLin/Desktop/Lec5Calculator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/Lec5CalculatorAppDelegate.o /Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/Lec5CalculatorViewController.o /Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5Calculator normal i386
+cGenerateDSYMFile /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app.dSYM /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5Calculator
+cTouch /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorAppDelegate.h
+c000000004D688EBA00000000000001FF
+t1298697914
+s511
+i<UIKit/UIKit.h>
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorAppDelegate.m
+c000000004D688EBA0000000000000AAE
+t1298697914
+s2734
+i"Lec5CalculatorAppDelegate.h"
+i"Lec5CalculatorViewController.h"
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.h
+c000000004D71B2B8000000000000045E
+t1299296952
+s1118
+i<UIKit/UIKit.h>
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m
+c000000004D71CEDC0000000000000D32
+t1299304156
+s3378
+i"Lec5CalculatorViewController.h"
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/Lec5CalculatorViewController.xib
+c000000004D71A075000000000000E750
+t1299292277
+s59216
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/Lec5Calculator_Prefix.pch
+c000000004D688EBB00000000000000C5
+t1298697915
+s197
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/MainWindow.xib
+c000000004D688EBB0000000000004E7D
+t1298697915
+s20093
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app
+t1299296660
+s238
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app.dSYM
+t1299296660
+s102
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Info.plist
+t1298699337
+s619
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5Calculator
+t1299296660
+s26232
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5CalculatorViewController.nib
+t1299292331
+s5353
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/MainWindow.nib
+t1298699337
+s1137
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/PkgInfo
+t1298699337
+s8
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/Lec5Calculator.LinkFileList
+c000000004D68944900000000000001CE
+t1298699337
+s462
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/Lec5CalculatorAppDelegate.o
+t1299296660
+s51580
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/Lec5CalculatorViewController.o
+t1299296660
+s54852
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/main.o
+t1298699338
+s6308
+
+N/Users/DanielYiLin/Desktop/Lec5Calculator/main.m
+c000000004D688EBB0000000000000166
+t1298697915
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/tC/tCqR9eLBGK82HPzFfLaKjE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lec5Calculator_Prefix-bmznakajxglsjobygyrratipdill/Lec5Calculator_Prefix.pch.gch
+t1298699338
+s15453392
+
+NLec5Calculator-Info.plist
+c000000004D688EBB000000000000038D
+t1298697915
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies320989461#320989461#0(0"0(0#1#0"8637913984#0"0#
+
+CCompileC build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/Lec5CalculatorAppDelegate.o /Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320989460.440956
+e320989460.541246
+r1
+xCompileC
+xbuild/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/Lec5CalculatorAppDelegate.o
+x/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorAppDelegate.m320989460#320989460#0(0"0(0#0#77"/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorAppDelegate.m8645140800#2137"    cd /Users/DanielYiLin/Desktop/Lec5Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-generated-files.hmap -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-own-target-headers.hmap -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-all-target-headers.hmap -iquote /Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-project-headers.hmap -F/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/include -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/DerivedSources/i386 -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/DerivedSources -include /var/folders/tC/tCqR9eLBGK82HPzFfLaKjE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lec5Calculator_Prefix-bmznakajxglsjobygyrratipdill/Lec5Calculator_Prefix.pch -c /Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorAppDelegate.m -o /Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/Lec5CalculatorAppDelegate.o0#
+
+CCompileC build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/Lec5CalculatorViewController.o /Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320989460.441907
+e320989460.615848
+r1
+xCompileC
+xbuild/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/Lec5CalculatorViewController.o
+x/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m:13: warning: 'kOperationMinus' defined but not used
+o/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m:14: warning: 'kOperationMultiply' defined but not used
+o/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m:15: warning: 'kOperationDivide' defined but not used
+o/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m:16: warning: 'kOperationEqual' defined but not used
+lSLF07#2@88"Compile /Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m320989460#320989460#0(536"/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m:13: warning: 'kOperationMinus' defined but not used/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m:14: warning: 'kOperationMultiply' defined but not used/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m:15: warning: 'kOperationDivide' defined but not used/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m:16: warning: 'kOperationEqual' defined but not used4(22@38"'kOperationMinus' defined but not used320989460#0#133#0(6@80"/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m320989460#13#0#13#0#24"'*' defined but not used0(22@41"'kOperationMultiply' defined but not used320989460#133#136#0(6@80"/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m320989460#14#0#14#0#24"'*' defined but not used0(22@39"'kOperationDivide' defined but not used320989460#269#134#0(6@80"/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m320989460#15#0#15#0#24"'*' defined but not used0(22@38"'kOperationEqual' defined but not used320989460#403#133#0(6@80"/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m320989460#16#0#16#0#24"'*' defined but not used0(0#0#80"/Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m8637847584#2143"    cd /Users/DanielYiLin/Desktop/Lec5Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-generated-files.hmap -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-own-target-headers.hmap -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-all-target-headers.hmap -iquote /Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-project-headers.hmap -F/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/include -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/DerivedSources/i386 -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/DerivedSources -include /var/folders/tC/tCqR9eLBGK82HPzFfLaKjE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lec5Calculator_Prefix-bmznakajxglsjobygyrratipdill/Lec5Calculator_Prefix.pch -c /Users/DanielYiLin/Desktop/Lec5Calculator/Classes/Lec5CalculatorViewController.m -o /Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/Lec5CalculatorViewController.o0#
+
+CCompileC build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/main.o /Users/DanielYiLin/Desktop/Lec5Calculator/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s320392138.775806
+e320392138.836988
+r1
+xCompileC
+xbuild/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/main.o
+x/Users/DanielYiLin/Desktop/Lec5Calculator/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/DanielYiLin/Desktop/Lec5Calculator/main.m320392138#320392138#0(0"0(0#0#48"/Users/DanielYiLin/Desktop/Lec5Calculator/main.m8612300128#2087"    cd /Users/DanielYiLin/Desktop/Lec5Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-generated-files.hmap -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-own-target-headers.hmap -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-all-target-headers.hmap -iquote /Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-project-headers.hmap -F/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/include -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/DerivedSources/i386 -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/DerivedSources -include /var/folders/tC/tCqR9eLBGK82HPzFfLaKjE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lec5Calculator_Prefix-bmznakajxglsjobygyrratipdill/Lec5Calculator_Prefix.pch -c /Users/DanielYiLin/Desktop/Lec5Calculator/main.m -o /Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/DanielYiLin/Desktop/Lec5Calculator/Lec5CalculatorViewController.xib
+s320985131.007776
+e320985131.618003
+r1
+xCompileXIB
+x/Users/DanielYiLin/Desktop/Lec5Calculator/Lec5CalculatorViewController.xib
+lSLF07#2@43"CompileXIB Lec5CalculatorViewController.xib320985131#320985131#0(0"0(0#0#74"/Users/DanielYiLin/Desktop/Lec5Calculator/Lec5CalculatorViewController.xib8647067008#622"    cd /Users/DanielYiLin/Desktop/Lec5Calculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5CalculatorViewController.nib /Users/DanielYiLin/Desktop/Lec5Calculator/Lec5CalculatorViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/DanielYiLin/Desktop/Lec5Calculator/MainWindow.xib
+s320392137.194942
+e320392137.606193
+r1
+xCompileXIB
+x/Users/DanielYiLin/Desktop/Lec5Calculator/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib320392137#320392137#0(0"0(0#0#56"/Users/DanielYiLin/Desktop/Lec5Calculator/MainWindow.xib8612698816#586"    cd /Users/DanielYiLin/Desktop/Lec5Calculator    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/MainWindow.nib /Users/DanielYiLin/Desktop/Lec5Calculator/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app.dSYM /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5Calculator
+s320989460.639106
+e320989460.654485
+r1
+xGenerateDSYMFile
+x/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app.dSYM
+x/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5Calculator
+lSLF07#2@130"GenerateDSYMFile build/Debug-iphonesimulator/Lec5Calculator.app.dSYM build/Debug-iphonesimulator/Lec5Calculator.app/Lec5Calculator320989460#320989460#0(0"0(0#0#103"/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5Calculator8647930208#413"    cd /Users/DanielYiLin/Desktop/Lec5Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5Calculator -o /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app.dSYM0#
+
+CLd /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5Calculator normal i386
+s320989460.615944
+e320989460.638997
+r1
+xLd
+x/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5Calculator
+xnormal
+xi386
+lSLF07#2@108"Link /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5Calculator320989460#320989460#0(0"0(0#0#0"8613418176#950"    cd /Users/DanielYiLin/Desktop/Lec5Calculator    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator -F/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator -filelist /Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Objects-normal/i386/Lec5Calculator.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Lec5Calculator0#
+
+CProcessInfoPlistFile /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Info.plist Lec5Calculator-Info.plist
+s320392137.170858
+e320392137.194852
+r1
+xProcessInfoPlistFile
+x/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Info.plist
+xLec5Calculator-Info.plist
+lSLF07#2@33"Process Lec5Calculator-Info.plist320392137#320392137#0(0"0(0#0#67"/Users/DanielYiLin/Desktop/Lec5Calculator/Lec5Calculator-Info.plist8613765440#509"    cd /Users/DanielYiLin/Desktop/Lec5Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Lec5Calculator-Info.plist -genpkginfo /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app/Info.plist0#
+
+CProcessPCH /var/folders/tC/tCqR9eLBGK82HPzFfLaKjE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lec5Calculator_Prefix-bmznakajxglsjobygyrratipdill/Lec5Calculator_Prefix.pch.gch Lec5Calculator_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s320392137.816190
+e320392138.775478
+r1
+xProcessPCH
+x/var/folders/tC/tCqR9eLBGK82HPzFfLaKjE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lec5Calculator_Prefix-bmznakajxglsjobygyrratipdill/Lec5Calculator_Prefix.pch.gch
+xLec5Calculator_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@36"Precompile Lec5Calculator_Prefix.pch320392137#320392138#0(0"0(0#0#67"/Users/DanielYiLin/Desktop/Lec5Calculator/Lec5Calculator_Prefix.pch8616632320#1969"    cd /Users/DanielYiLin/Desktop/Lec5Calculator    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-generated-files.hmap -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-own-target-headers.hmap -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-all-target-headers.hmap -iquote /Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/Lec5Calculator-project-headers.hmap -F/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/include -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/DerivedSources/i386 -I/Users/DanielYiLin/Desktop/Lec5Calculator/build/Lec5Calculator.build/Debug-iphonesimulator/Lec5Calculator.build/DerivedSources -c /Users/DanielYiLin/Desktop/Lec5Calculator/Lec5Calculator_Prefix.pch -o /var/folders/tC/tCqR9eLBGK82HPzFfLaKjE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Lec5Calculator_Prefix-bmznakajxglsjobygyrratipdill/Lec5Calculator_Prefix.pch.gch0#
+
+CTouch /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app
+s320989460.654559
+e320989460.663221
+r1
+xTouch
+x/Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app
+lSLF07#2@94"Touch /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app320989460#320989460#0(0"0(0#0#0"8647044096#291"    cd /Users/DanielYiLin/Desktop/Lec5Calculator    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/DanielYiLin/Desktop/Lec5Calculator/build/Debug-iphonesimulator/Lec5Calculator.app0#
+
